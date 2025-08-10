@@ -1,0 +1,6 @@
+gradio
+pillow
+transformers
+torch
+requests
+pandas
